@@ -1,0 +1,3 @@
+﻿  TaskScheduler.cpp
+C:\Users\Рыба\source\repos\TaskScheduler\TaskScheduler\TaskScheduler.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TaskScheduler.vcxproj -> C:\Users\Рыба\source\repos\TaskScheduler\Debug\TaskScheduler.exe
